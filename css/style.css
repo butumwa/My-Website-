@@ -1,0 +1,160 @@
+ body{
+	background-color:greenyellow;
+}
+
+.nav ul {
+	text-align: center;
+	font-size: 100%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav ul li {
+	text-align: center;
+	font-size: 100%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.nav li{
+	display: inline;
+	
+}
+
+
+.nav ul li a{
+	background-color:gray;
+	width: 22%;
+	display:inline-block;
+	padding-bottom: 20px;
+	text-decoration: none;
+	color: whitesmoke;
+	padding-left: 20px;
+	padding-top: 10px;
+
+}
+li a:hover{
+background-color: white;
+color: chocolate;
+border:2px solid blue;
+}
+.active{
+background-color: white;
+color: chocolate;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hobbies{
+	margin: auto;
+	width: 70%;
+	background-color: white;
+	border:red 1px solid;
+}
+.hobbies ul {
+	text-align: center;
+	list-style: none;
+	color:auto;
+}
+.hobbies ul h3{
+	color: blue;
+}
+
+.bgorign{
+	text-align: center;
+	margin: auto;
+	width: 70%;
+	background-color: white;
+	border:red 1px solid;
+}
+
+
+.bgorign h3{
+	color: blue;
+}
+h3{
+	color: blue;
+}
+
+.future{
+	margin: auto;
+	width: 70%;
+	background-color: white;
+	border:red 1px solid;
+}
+.form{
+	text-align: center;
+	margin: auto;
+	width: 70%;
+	background-color: white;
+	border:red 1px solid;
+}
+.form input{
+	width: 250px;
+	padding: 10px;
+	margin: 10px;
+
+}
+.form textarea{
+	width: 250px;
+	padding: 10px;
+	margin: 10px;
+	
+}
+.form  button{
+	width: 250px;
+	padding: 10px;
+	margin: 10px;
+	color: black;
+	background-color: burlywood;
+}
+
+.form button:hover{
+	border: red 2px solid;
+	background-color: chocolate;
+	color: whitesmoke;
+}
+
+.gallery{
+
+	margin: auto;
+	width: 70%;
+	background-color: white;
+	border:red 1px solid;
+}
+.gallery h3{
+	text-align: center;
+	
+}
