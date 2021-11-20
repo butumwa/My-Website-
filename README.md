@@ -1,2 +1,2 @@
-# My Website 
- Assignment
+# My website
+ mid semester
